@@ -1,4 +1,4 @@
-# EmpowerHer: Financial Inclusion Portal
+# Naari-Nidhi: Financial Inclusion Portal
 
 A responsive web application designed to promote financial inclusion for women worldwide through accessible banking solutions, financial education, and community support.
 
@@ -20,7 +20,7 @@ A responsive web application designed to promote financial inclusion for women w
 
 ## 🚀 Live Demo
 
-The application is a single-page HTML file that can be opened directly in any modern web browser.
+The application is a single-page HTML file that can be opened directly in any modern web browser. Access at [https://shorturl.at/pnM2S]
 
 ## 📁 Project Structure
 
